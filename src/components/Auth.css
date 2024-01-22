@@ -1,0 +1,17 @@
+.container {
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  width: 500px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 50px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
